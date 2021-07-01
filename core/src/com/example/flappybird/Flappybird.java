@@ -14,6 +14,8 @@ import com.badlogic.gdx.utils.ScreenUtils;
 
 import java.util.Random;
 
+// Added comments to file
+
 
 public class Flappybird extends ApplicationAdapter {
 
